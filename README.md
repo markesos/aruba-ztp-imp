@@ -1,7 +1,7 @@
 # aruba-ztp-imp
 
 
-Small script to generate the variables file for the Zero-Touch-Provisioning template for ARUBA edge switches.
+Small script to generate the variables file for the Zero-Touch-Provisioning AirWave template for ARUBA edge switches.
 
 
 Tested with:
