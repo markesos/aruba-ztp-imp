@@ -1,9 +1,6 @@
 # aruba-ztp-imp
 
 
-[TOC]
-
-
 Small script to generate the variables file for the Zero-Touch-Provisioning (ZTP) AirWave template for ARUBA edge switches.
 
 
