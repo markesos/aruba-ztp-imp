@@ -8,7 +8,7 @@ Tested with:
 
 
 * ARUBA AirWave Management Platform 8.2.8.1
-* 406 Switches ARUBA 2903M-48G-PoE+ (HPE model JL322A)
+* 490 Switches ARUBA 2903M-48G-PoE+ (HPE model JL322A) provisoned in 135 stacks
     * ARUBA OS WC16.08.0003
     
     
